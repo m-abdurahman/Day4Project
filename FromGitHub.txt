@@ -1,3 +1,3 @@
 This is the file I added directly from GitHub.com to simulate my coworker pushed this changes to this repo so I can pull down the code he's added
 
-added some changes from local
+This is my coworker adding changes and pushing to remote 
